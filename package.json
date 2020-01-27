@@ -1,0 +1,18 @@
+{
+    "name": "bamazon",
+    "version": "1.0.0",
+    "description": "Node.js &amp",
+    "main": "index.js",
+    "scripts": {
+
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://https://github.com/Andrewr24/Bamazon.git"
+    },
+    "dependencies": {
+        "console.table": "0.10.0",
+        "inquirer": "7.0.4",
+        "mysql": "2.18.1"
+    }
+}
